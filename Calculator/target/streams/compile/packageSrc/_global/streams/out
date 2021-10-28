@@ -1,0 +1,19 @@
+[debug] Packaging C:\Users\ahmedmub\workspace\calculator\target\scala-2.13\calculator_2.13-0.1-sources.jar ...
+[debug] Input file mappings:
+[debug] 	com\calculator\Main.scala
+[debug] 	  C:\Users\ahmedmub\workspace\calculator\src\main\scala\com\calculator\Main.scala
+[debug] 	com\calculator\domain\BinOperator.scala
+[debug] 	  C:\Users\ahmedmub\workspace\calculator\src\main\scala\com\calculator\domain\BinOperator.scala
+[debug] 	com\calculator\domain\Calculator.scala
+[debug] 	  C:\Users\ahmedmub\workspace\calculator\src\main\scala\com\calculator\domain\Calculator.scala
+[debug] 	com\calculator\domain\Number.scala
+[debug] 	  C:\Users\ahmedmub\workspace\calculator\src\main\scala\com\calculator\domain\Number.scala
+[debug] 	com\calculator\domain\Token.scala
+[debug] 	  C:\Users\ahmedmub\workspace\calculator\src\main\scala\com\calculator\domain\Token.scala
+[debug] 	com\calculator\ui\ButtonComponent.scala
+[debug] 	  C:\Users\ahmedmub\workspace\calculator\src\main\scala\com\calculator\ui\ButtonComponent.scala
+[debug] 	com\calculator\ui\PaneComponent.scala
+[debug] 	  C:\Users\ahmedmub\workspace\calculator\src\main\scala\com\calculator\ui\PaneComponent.scala
+[debug] 	com\calculator\ui\TextFieldComponent.scala
+[debug] 	  C:\Users\ahmedmub\workspace\calculator\src\main\scala\com\calculator\ui\TextFieldComponent.scala
+[debug] Done packaging.

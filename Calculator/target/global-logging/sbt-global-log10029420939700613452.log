@@ -1,0 +1,11 @@
+[debug] > Exec(compile, None, None)
+[debug] Evaluating tasks: Compile / compile
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 8 Scala sources to C:\Users\ahmedmub\workspace\calculator\target\scala-2.13\classes ...
+[warn] C:\Users\ahmedmub\workspace\calculator\src\main\scala\com\calculator\ui\PaneComponent.scala:13:3: a pure expression does nothing in statement position; multiline expressions may require enclosing parentheses
+[warn]   paneCal
+[warn]   ^
+[warn] one warning found
+[info] done compiling
+[success] Total time: 8 s, completed Jul 30, 2021, 4:10:00 PM
+[debug] > Exec(idea-shell, None, None)

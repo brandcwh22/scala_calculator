@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0mC:\Users\tonar\Downloads\OOP Final Assignment 18006684\src\main\scala\com\calculator\domain\Calculator.scala:126:13: value addAll is not a member of scala.collection.mutable.Queue[String][0m
+[0m[[0m[31merror[0m] [0m[0m      queue.addAll(performQueuing(input))[0m
+[0m[[0m[31merror[0m] [0m[0m            ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

@@ -1,0 +1,11 @@
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(run, Some(91fea59b-b207-437e-a676-b72dde257c35), Some(CommandSource(console0)))[0m
+[0m[[0m[0mdebug[0m] [0m[0mEvaluating tasks: Compile / run[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning task... Cancel: Signal, check cycles: false, forcegc: true[0m
+[0m[[0m[0minfo[0m] [0m[0mcompiling 1 Scala source to C:\Users\tonar\Downloads\calculator\src\main\scala\com\calculator\domain\target\scala-2.12\classes ...[0m
+[0m[[0m[31merror[0m] [0m[0mC:\Users\tonar\Downloads\calculator\src\main\scala\com\calculator\domain\Calculator.scala:126:13: value addAll is not a member of scala.collection.mutable.Queue[String][0m
+[0m[[0m[31merror[0m] [0m[0m      queue.addAll(performQueuing(input))[0m
+[0m[[0m[31merror[0m] [0m[0m            ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
+[0m[[0m[31merror[0m] [0m[0m(Compile / [31mcompileIncremental[0m) Compilation failed[0m
+[0m[[0m[31merror[0m] [0m[0mTotal time: 4 s, completed Jul 30, 2021 8:12:19 PM[0m
+[0m[[0m[0mdebug[0m] [0m[0m> Exec(shell, None, None)[0m

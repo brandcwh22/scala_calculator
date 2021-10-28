@@ -1,0 +1,15 @@
+[debug] > Exec(publishLocal, None, None)
+[debug] Evaluating tasks: publishLocal
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] Wrote C:\Users\ahmedmub\workspace\calculator\target\scala-2.13\calculator_2.13-0.1.pom
+[info] Main Scala API documentation to C:\Users\ahmedmub\workspace\calculator\target\scala-2.13\api...
+[info] Main Scala API documentation successful.
+[info] :: delivering :: default#calculator_2.13;0.1 :: 0.1 :: release :: Fri Jul 30 16:32:50 PKT 2021
+[info] 	delivering ivy file to C:\Users\ahmedmub\workspace\calculator\target\scala-2.13\ivy-0.1.xml
+[info] 	published calculator_2.13 to C:\Users\ahmedmub\.ivy2\local\default\calculator_2.13\0.1\poms\calculator_2.13.pom
+[info] 	published calculator_2.13 to C:\Users\ahmedmub\.ivy2\local\default\calculator_2.13\0.1\jars\calculator_2.13.jar
+[info] 	published calculator_2.13 to C:\Users\ahmedmub\.ivy2\local\default\calculator_2.13\0.1\srcs\calculator_2.13-sources.jar
+[info] 	published calculator_2.13 to C:\Users\ahmedmub\.ivy2\local\default\calculator_2.13\0.1\docs\calculator_2.13-javadoc.jar
+[info] 	published ivy to C:\Users\ahmedmub\.ivy2\local\default\calculator_2.13\0.1\ivys\ivy.xml
+[success] Total time: 5 s, completed Jul 30, 2021, 4:32:50 PM
+[debug] > Exec(idea-shell, None, None)

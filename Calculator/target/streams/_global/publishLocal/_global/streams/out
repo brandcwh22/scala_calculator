@@ -1,0 +1,10 @@
+[info] :: delivering :: default#calculator_2.13;0.1 :: 0.1 :: release :: Fri Jul 30 16:32:50 PKT 2021
+[debug] 	options = status=release pubdate=Fri Jul 30 16:32:50 PKT 2021 validate=true resolveDynamicRevisions=true merge=true resolveId=null pubBranch=null
+[info] 	delivering ivy file to C:\Users\ahmedmub\workspace\calculator\target\scala-2.13\ivy-0.1.xml
+[debug] 	deliver done (52ms)
+[debug] local do not support transaction. ivy pattern does not use revision as a directory
+[info] 	published calculator_2.13 to C:\Users\ahmedmub\.ivy2\local\default\calculator_2.13\0.1\poms\calculator_2.13.pom
+[info] 	published calculator_2.13 to C:\Users\ahmedmub\.ivy2\local\default\calculator_2.13\0.1\jars\calculator_2.13.jar
+[info] 	published calculator_2.13 to C:\Users\ahmedmub\.ivy2\local\default\calculator_2.13\0.1\srcs\calculator_2.13-sources.jar
+[info] 	published calculator_2.13 to C:\Users\ahmedmub\.ivy2\local\default\calculator_2.13\0.1\docs\calculator_2.13-javadoc.jar
+[info] 	published ivy to C:\Users\ahmedmub\.ivy2\local\default\calculator_2.13\0.1\ivys\ivy.xml

@@ -1,0 +1,51 @@
+[debug] > Exec(compile, None, None)
+[debug] Evaluating tasks: Compile / compile
+[debug] Running task... Cancel: Signal, check cycles: false, forcegc: true
+[info] compiling 5 Scala sources to C:\Users\ahmedmub\workspace\calculator\target\scala-2.13\classes ...
+[info] Non-compiled module 'compiler-bridge_2.13' for Scala 2.13.6. Compiling...
+[info]   Compilation completed in 12.32s.
+[error] C:\Users\ahmedmub\workspace\calculator\src\main\scala\com\calculator\Main.scala:13:3: Symbol 'type javafx.stage.Stage' is missing from the classpath.
+[error] This symbol is required by 'class scalafx.stage.Stage'.
+[error] Make sure that type Stage is in your classpath and check for conflicting dependencies with `-Ylog-classpath`.
+[error] A full rebuild may help if 'Stage.class' was compiled against an incompatible version of javafx.stage.
+[error]   stage = new JFXApp.PrimaryStage {
+[error]   ^
+[error] C:\Users\ahmedmub\workspace\calculator\src\main\scala\com\calculator\Main.scala:25:17: Symbol 'term javafx.css' is missing from the classpath.
+[error] This symbol is required by 'trait scalafx.css.Styleable'.
+[error] Make sure that term css is in your classpath and check for conflicting dependencies with `-Ylog-classpath`.
+[error] A full rebuild may help if 'Styleable.class' was compiled against an incompatible version of javafx.
+[error]     scene = new Scene {
+[error]                 ^
+[error] C:\Users\ahmedmub\workspace\calculator\src\main\scala\com\calculator\Main.scala:5:8: Symbol 'type javafx.scene.Scene' is missing from the classpath.
+[error] This symbol is required by 'class scalafx.scene.Scene'.
+[error] Make sure that type Scene is in your classpath and check for conflicting dependencies with `-Ylog-classpath`.
+[error] A full rebuild may help if 'Scene.class' was compiled against an incompatible version of javafx.scene.
+[error] import scalafx.scene.Scene
+[error]        ^
+[error] C:\Users\ahmedmub\workspace\calculator\src\main\scala\com\calculator\Main.scala:6:8: Symbol 'type javafx.scene.control.TextField' is missing from the classpath.
+[error] This symbol is required by 'class scalafx.scene.control.TextField'.
+[error] Make sure that type TextField is in your classpath and check for conflicting dependencies with `-Ylog-classpath`.
+[error] A full rebuild may help if 'TextField.class' was compiled against an incompatible version of javafx.scene.control.
+[error] import scalafx.scene.control.{Button, TextField}
+[error]        ^
+[error] C:\Users\ahmedmub\workspace\calculator\src\main\scala\com\calculator\Main.scala:7:8: Symbol 'type javafx.scene.layout.GridPane' is missing from the classpath.
+[error] This symbol is required by 'class scalafx.scene.layout.GridPane'.
+[error] Make sure that type GridPane is in your classpath and check for conflicting dependencies with `-Ylog-classpath`.
+[error] A full rebuild may help if 'GridPane.class' was compiled against an incompatible version of javafx.scene.layout.
+[error] import scalafx.scene.layout.{BackgroundFill, GridPane}
+[error]        ^
+[error] C:\Users\ahmedmub\workspace\calculator\src\main\scala\com\calculator\Main.scala:9:8: Symbol 'type javafx.scene.shape.Circle' is missing from the classpath.
+[error] This symbol is required by 'class scalafx.scene.shape.Circle'.
+[error] Make sure that type Circle is in your classpath and check for conflicting dependencies with `-Ylog-classpath`.
+[error] A full rebuild may help if 'Circle.class' was compiled against an incompatible version of javafx.scene.shape.
+[error] import scalafx.scene.shape.Circle
+[error]        ^
+[error] C:\Users\ahmedmub\workspace\calculator\src\main\scala\com\calculator\Main.scala:62:46: type mismatch;
+[error]  found   : scalafx.event.ActionEvent => Unit
+[error]  required: javafx.event.EventHandler[javafx.event.ActionEvent]
+[error]         button.onAction() = (e: ActionEvent) => {
+[error]                                              ^
+[error] 7 errors found
+[error] (Compile / compileIncremental) Compilation failed
+[error] Total time: 18 s, completed Jul 30, 2021, 12:54:32 PM
+[debug] > Exec(idea-shell, None, None)
